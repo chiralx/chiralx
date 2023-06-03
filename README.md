@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiralx
+- 👋 Hi, I’m @DanielThorr
 - 👀 I’m interested in Robotics and machine learnig. I try to apply the first principle thinking into the techology development 
      and problem solving.
 - 🌱 I’m currently learning the fundamentals of ML and some intermediate to advanced robotics topics in order to start 
