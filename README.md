@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielThorr
+- 👋 Hi, I’m @dnlxorr
 - I work as an android developer in mobility solutions and Fintech applications. 
 - I use Kotlin and Java on a daily basis but I'm also able to code in Python and C++.
 - I have extesive experience in the field of computational simulations of physical systems.
